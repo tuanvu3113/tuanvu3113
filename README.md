@@ -43,7 +43,7 @@ I have many years of experiences in web application development. Possesses pract
 </details>
 
 <h2><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> FEATURED PROJECTS</h2>
-  <p><img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="http://bosothem.com.vn">http://bosothem.com.vn</a>
+  <p><img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://bosothem.com.vn">https://bosothem.com.vn</a>
   <br><img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://cokhikhaitamphat.com">https://cokhikhaitamphat.com</a>
   <br> <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://vieclammiennam.vn">https://vieclammiennam.vn</a>
   <br> <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://daphongthuytotam.com">https://daphongthuytotam.com</a>
