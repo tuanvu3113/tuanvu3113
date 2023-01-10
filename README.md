@@ -57,7 +57,7 @@ I have many years of experiences in web application development. Possesses pract
 </p>
 
 <h2><img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png"> CONNECT WITH ME</h2>
-<a href="https://www.linkedin.com/in/anh-tu%E1%BA%A5n-v%C5%A9-424998235/" rel="nofollow">
+<a href="https://www.linkedin.com/in/anh-tu%E1%BA%A5n-v%C5%A9-424998235/" target="_blank" rel="nofollow">
     <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">
 </a>
 &nbsp;
@@ -65,7 +65,7 @@ I have many years of experiences in web application development. Possesses pract
       <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/vuanhtuan3101">
+  <a href="https://www.facebook.com/vuanhtuan3101" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="max-width: 100%;">
   </a>
   
