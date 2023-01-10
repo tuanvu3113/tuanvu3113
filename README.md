@@ -1,5 +1,5 @@
 # Hi I'm Tuan Vu <img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">
-# I'm a full stack developer <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">
+# I'm a full-Stack web development <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">
 I have many years of experiences in web application development. Possesses practical knowledge in system design and optimization for high-performance and high security. I always try to complete the projects with the highest standard and a strong communicator with the ability to translate design requirements into actionable plans.
 - Programming languages: PHP, Javascript
 - Frontend: HTML, CSS
