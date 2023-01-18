@@ -14,7 +14,7 @@ I have many years of experiences in web application development. Possesses pract
 
 <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png"><img class="emoji" alt="book" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png"></g-emoji> <strong>Information Technology Engineer</strong><br>
 
-<g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"><img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"></g-emoji> 8-2018<br>
+<g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"><img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"></g-emoji> 08-2018<br>
 
 <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png"><img class="emoji" alt="books" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png"></g-emoji> <strong>HCM University of Technology
 
@@ -27,17 +27,7 @@ I have many years of experiences in web application development. Possesses pract
 <li>
 <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> <strong>Web Developer</strong><br>
 
-<g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"><img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"></g-emoji> 04/2017 - 05/2018<br>
-
-<g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png"><img class="emoji" alt="round_pushpin" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png"></g-emoji> <strong>PHƯƠNG NAM VINA</strong> - HCM city, Viet Nam
-</li>
-
-<li>
-<g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> <strong>Web Developer</strong><br>
-
-<g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"><img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"></g-emoji> 06/2018 - NOW<br>
-
-<g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png"><img class="emoji" alt="round_pushpin" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png"></g-emoji> <strong>GREYSTONE DATA SYSTEM VIETNAM</strong> - HCM city, Viet Nam
+<g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"><img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"></g-emoji> 06/2018 - Now<br>
 </li>
 </ul>
 </details>
