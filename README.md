@@ -73,7 +73,8 @@ I have many years of experiences in web application development. Possesses pract
  </p>
   <h2><img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png"> CONNECT WITH ME</h2>
 <a href="https://www.linkedin.com/in/anh-tu%E1%BA%A5n-v%C5%A9-424998235/" target="_blank" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
+    
 </a>
 &nbsp;
 <a href="mailto:vuanhtuan3113@gmail.com">
