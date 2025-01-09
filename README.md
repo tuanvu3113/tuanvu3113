@@ -12,29 +12,20 @@ I have many years of experiences in web application development. Possesses pract
 
 <h2><img class="emoji" alt="page_with_curl" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png"> Resume</h2>
 <p>
-<!-- <details> -->
-  <summary><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png"></g-emoji>Education</summary>
-<ul dir="auto"><li>
+- Education
 
-<g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png"><img class="emoji" alt="book" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png"></g-emoji> <strong>Information Technology Engineer</strong><br>
+- <img class="emoji" alt="book" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png"> <strong>Information Technology Engineer</strong><br>
 
-<g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"><img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"></g-emoji> 08-2018<br>
+- <img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"> 08-2018<br>
 
-<g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png"><img class="emoji" alt="books" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png"></g-emoji> <strong>HCM University of Technology
+- <img class="emoji" alt="books" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png"> <strong>HCM University of Technology </strong><br>
 
-</li></ul>
-<!-- </details> -->
+</p>
+<p>
+  - Experience
 
-<!-- <details> -->
-<summary><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png"></g-emoji>Experience</summary>
-<ul dir="auto"><li>
-
-<g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> <strong>Web Developer</strong><br>
-
-<g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"><img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"></g-emoji> 06/2018 - Now<br>
-
-</li></ul>
-<!-- </details> -->
+- <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"> <strong>Web Developer</strong><br>
+- <img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"> 06/2018 - Now <br>
 </p>
 
 <h2><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> FEATURED PROJECTS</h2>
