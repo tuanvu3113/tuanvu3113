@@ -12,7 +12,7 @@ I have many years of experiences in web application development. Possesses pract
 
 <h2><img class="emoji" alt="page_with_curl" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png"> Resume</h2>
 <p>
-- Education
+- <strong>Education</strong><br>
 
 - <img class="emoji" alt="book" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png"> <strong>Information Technology Engineer</strong><br>
 
@@ -22,7 +22,7 @@ I have many years of experiences in web application development. Possesses pract
 
 </p>
 <p>
-  - Experience
+  - <strong>Experience</strong><br>
 
 - <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"> <strong>Web Developer</strong><br>
 - <img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"> 10-2018 - Now<br>
