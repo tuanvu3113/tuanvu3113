@@ -11,6 +11,7 @@ I have many years of experiences in web application development. Possesses pract
 - Others: jQuery/Ajax/JSON, Bootstrap
 
 <h2><img class="emoji" alt="page_with_curl" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png"> Resume</h2>
+<p>
 <!-- <details> -->
   <summary><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png"></g-emoji>Education</summary>
 <ul dir="auto"><li>
@@ -34,6 +35,7 @@ I have many years of experiences in web application development. Possesses pract
 
 </li></ul>
 <!-- </details> -->
+</p>
 
 <h2><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> FEATURED PROJECTS</h2>
   <p><img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://bosothem.com.vn">https://bosothem.com.vn</a>
