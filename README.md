@@ -68,4 +68,7 @@ I have many years of experiences in web application development. Possesses pract
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
  </p>
   <h2><img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png"> CONNECT WITH ME</h2>
-<p><a href="https://www.linkedin.com/in/anh-tu%E1%BA%A5n-v%C5%A9-424998235/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>&nbsp;<a href="mailto:vuanhtuan3113@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;<a href="https://www.facebook.com/vuanhtuan3101" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="max-width: 100%;"></a></p>
+<p>
+  <a href="https://www.linkedin.com/in/anh-tu%E1%BA%A5n-v%C5%A9-424998235/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>
+  <a href="mailto:vuanhtuan3113@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.facebook.com/vuanhtuan3101" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="max-width: 100%;"></a></p>
