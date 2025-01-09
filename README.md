@@ -35,8 +35,8 @@ I have many years of experiences in web application development. Possesses pract
 <h2><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> FEATURED PROJECTS</h2>
   <p><img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://bosothem.com.vn">https://bosothem.com.vn</a>
   <br><img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://cokhikhaitamphat.com">https://cokhikhaitamphat.com</a>
-  <br> <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://vieclammiennam.vn">https://vieclammiennam.vn</a>
-  <br> <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://daphongthuytotam.com">https://daphongthuytotam.com</a>
+<!--   <br> <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://vieclammiennam.vn">https://vieclammiennam.vn</a> -->
+<!--   <br> <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://daphongthuytotam.com">https://daphongthuytotam.com</a> -->
   <br> <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://vanepthuyha.com">https://vanepthuyha.com</a>
   <br/> ...
   </p>
@@ -77,7 +77,8 @@ I have many years of experiences in web application development. Possesses pract
 </a>
 &nbsp;
 <a href="mailto:vuanhtuan3113@gmail.com">
-      <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+      
   </a>
   &nbsp;
   <a href="https://www.facebook.com/vuanhtuan3101" target="_blank">
