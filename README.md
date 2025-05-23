@@ -5,7 +5,7 @@
 I have many years of experiences in web application development. Possesses practical knowledge in system design and optimization for high-performance and high security. I always try to complete the projects with the highest standard and a strong communicator with the ability to translate design requirements into actionable plans.
 
 - Programming languages: PHP, Javascript, Node JS
-- Frontend: HTML, CSS, jQuery
+- Frontend: HTML, CSS, jQuery, Tailwind CSS
 - Database & Search Engine: MySQL, PostgreSQL
 - Using Frameworks: Codeigniter, Laravel, Symfony
 - Others: Ajax, JSON, Bootstrap
