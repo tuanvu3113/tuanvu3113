@@ -10,6 +10,12 @@ I have many years of experiences in web application development. Possesses pract
 - Using Frameworks: Codeigniter, Laravel, Symfony
 - Others: Ajax, JSON, Bootstrap
 
+Link CV: <a href="https://drive.google.com/file/d/1PL9btVpDtF9UNubLWCvsfFfqkQTpGOkI/view?usp=drive_link"
+   target="_blank"
+   rel="noopener noreferrer nofollow">
+  Link
+</a>
+
 <h2><img class="emoji" alt="page_with_curl" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png"> Resume</h2>
 <p>
 - <strong>Education</strong><br>
