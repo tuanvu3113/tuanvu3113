@@ -10,7 +10,7 @@ I have many years of experiences in web application development. Possesses pract
 - Using Frameworks: Codeigniter, Laravel, Symfony
 - Others: Ajax, JSON, Bootstrap
 
-Link CV: <a href="https://drive.google.com/file/d/1PL9btVpDtF9UNubLWCvsfFfqkQTpGOkI/view?usp=drive_link"
+<img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> Link CV: <a href="https://drive.google.com/file/d/1PL9btVpDtF9UNubLWCvsfFfqkQTpGOkI/view?usp=drive_link"
    target="_blank"
    rel="noopener noreferrer nofollow">
   Link
