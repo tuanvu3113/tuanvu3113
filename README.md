@@ -9,12 +9,13 @@ I have many years of experiences in web application development. Possesses pract
 - Database & Search Engine: MySQL, PostgreSQL
 - Using Frameworks: Codeigniter, Laravel, Symfony
 - Others: Ajax, JSON, Bootstrap
-
+/*
 <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> Link CV: <a href="https://drive.google.com/file/d/1XOyxRQgHebwXlDBdQ9_-rILVDa1mcc1y/view?usp=drive_link"
    target="_blank"
    rel="noopener noreferrer nofollow">
   Link
 </a>
+*/
 
 <h2><img class="emoji" alt="page_with_curl" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png"> Resume</h2>
 <p>
