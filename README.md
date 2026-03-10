@@ -2,15 +2,15 @@
 
 # I'm a full-stack web development <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">
 
-I have many years of experiences in web application development. Possesses practical knowledge in system design and optimization for high-performance and high security. I always try to complete the projects with the highest standard and a strong communicator with the ability to translate design requirements into actionable plans.
+I have 7+ years of experiences in web application development. Possesses practical knowledge in system design and optimization for high-performance and high security. I always try to complete the projects with the highest standard and a strong communicator with the ability to translate design requirements into actionable plans.
 
-- Programming languages: PHP, Javascript, Node JS
+- Programming languages: PHP, Javascript, Node JS, Golang
 - Frontend: HTML, CSS, jQuery, Tailwind CSS
 - Database & Search Engine: MySQL, PostgreSQL
-- Using Frameworks: Codeigniter, Laravel, Symfony
+- Using Frameworks: Codeigniter, Laravel, Symfony, GIN, OpenAPI/Swagger
 - Others: Ajax, JSON, Bootstrap
 <!--
-<img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> Link CV: <a href="https://drive.google.com/file/d/1XOyxRQgHebwXlDBdQ9_-rILVDa1mcc1y/view?usp=drive_link"
+<img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> Link CV: <a href="https://drive.google.com/file/d/1XOyxRQgHebwXlDBdQ9_-rILVDa1mcc1y/view?usp=drive_link"https://github.com/tuanvu3113/tuanvu3113/blob/main/README.md
    target="_blank"
    rel="noopener noreferrer nofollow">
   Link
@@ -36,8 +36,8 @@ I have many years of experiences in web application development. Possesses pract
 </p>
 
 <h2><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"> FEATURED PROJECTS</h2>
-  <p><img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://bosothem.com.vn">https://bosothem.com.vn</a>
-  <br><img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://cokhikhaitamphat.com">https://cokhikhaitamphat.com</a>
+  <p><!--<img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://bosothem.com.vn">https://bosothem.com.vn</a>-->
+  <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://cokhikhaitamphat.com">https://cokhikhaitamphat.com</a>
 <!--   <br> <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://vieclammiennam.vn">https://vieclammiennam.vn</a> -->
 <!--   <br> <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://daphongthuytotam.com">https://daphongthuytotam.com</a> -->
   <br> <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> <a href="https://vanepthuyha.com">https://vanepthuyha.com</a>
@@ -54,6 +54,7 @@ I have many years of experiences in web application development. Possesses pract
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/go-lang?style=for-the-badge&logo=go&logoColor=blue">
   </p>
   <img class="emoji" alt="rocket" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"> Frameworks
   <p>
