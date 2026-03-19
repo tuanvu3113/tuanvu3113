@@ -25,7 +25,7 @@ I have 7+ years of experiences in web application development. Possesses practic
 
 - <img class="emoji" alt="calendar" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png"> 08-2018<br>
 
-- <img class="emoji" alt="books" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png"> <strong>HCM University of Technology </strong><br>
+- <img class="emoji" alt="books" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png"> <strong>Ho Chi Minh City University of Technology</strong><br>
 
 </p>
 <p>
