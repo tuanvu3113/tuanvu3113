@@ -2,13 +2,37 @@
 
 # I'm a full-stack web development <img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">
 
-I have 7+ years of experiences in web application development. Possesses practical knowledge in system design and optimization for high-performance and high security. I always try to complete the projects with the highest standard and a strong communicator with the ability to translate design requirements into actionable plans.
+I have 5+ years of experience in web application development with strong practical knowledge in system design, performance optimization, and high-security systems. I always strive to deliver projects with the highest standards while maintaining clean, scalable, and maintainable architectures. Strong communicator with the ability to translate business and design requirements into actionable technical solutions.
 
-- Programming languages: PHP, Javascript, Node JS, Golang
-- Frontend: HTML, CSS, jQuery, Tailwind CSS
-- Database & Search Engine: MySQL, PostgreSQL
-- Using Frameworks: Codeigniter, Laravel, Symfony, GIN, OpenAPI/Swagger
-- Others: Ajax, JSON, Bootstrap
+## Technical Skills
+
+### Programming Languages
+- PHP
+- JavaScript
+- Node.js
+- Golang
+
+### Frontend
+- HTML
+- CSS
+- jQuery
+- Tailwind CSS
+
+### Database & Search Engine
+- MySQL
+- PostgreSQL
+
+### Frameworks & Technologies
+- CodeIgniter
+- Laravel
+- Symfony
+- Gin (Golang)
+- OpenAPI / Swagger
+
+### Others
+- AJAX
+- JSON
+- Bootstrap
 <!--
 <img class="emoji" alt="star" height="15" width="15" src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png"> Link CV: <a href="https://drive.google.com/file/d/1XOyxRQgHebwXlDBdQ9_-rILVDa1mcc1y/view?usp=drive_link"https://github.com/tuanvu3113/tuanvu3113/blob/main/README.md
    target="_blank"
